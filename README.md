@@ -7,3 +7,9 @@ You are free to use, modify, and share this code, but you **must give appropriat
 You **may not** claim the modified or original work as your own.
 
 MIT License applies.
+
+## Internship Report
+
+During my internship, I adapted the code to work with the CAMELYON dataset and added some filters.
+
+For a detailed explanation of my contributions, see the [Report_Internship_Bachelor](./docs/Report_Internship_Bachelor.pdf).
